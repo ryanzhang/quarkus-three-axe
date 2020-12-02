@@ -1,3 +1,6 @@
 [submodule "quarkus-todo-app"]
 	path = quarkus-todo-app
 	url = git@github.com:ryanzhang/todo-demo-app.git
+[submodule "quarkus-reactive"]
+	path = quarkus-reactive
+	url = git@github.com:ryanzhang/goodbye.git
