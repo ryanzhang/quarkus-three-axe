@@ -4,3 +4,6 @@
 [submodule "quarkus-reactive"]
 	path = quarkus-reactive
 	url = git@github.com:ryanzhang/goodbye.git
+[submodule "quarkus-buildtimeboot"]
+	path = quarkus-buildtimeboot
+	url = git@github.com:ryanzhang/buildtimeboot.git
